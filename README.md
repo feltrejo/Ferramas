@@ -27,7 +27,7 @@ Inicia los módulos de Apache y MySQL. Deberían verse en verde una vez iniciado
 2. Crear la Base de Datos,
 `Abre tu navegador web y ve a http://localhost/phpmyadmin.
 En la barra lateral izquierda, haz clic en "Nueva" para crear una nueva base de datos.
-Asígnale el nombre ferramas (es crucial que se llame así para que el programa funcione).
+Copia lo que está en el archivo ferramas
 Haz clic en "Crear".
 Ahora, selecciona la base de datos ferramas que acabas de crear en la barra lateral izquierda.
 Haz clic en la pestaña "Importar" en la parte superior.
