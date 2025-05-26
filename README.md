@@ -1,9 +1,9 @@
-# FERREMAS
+# FERRAMAS
 
 _Proyecto semestral - Integración de plataformas_
 
 ---
-Se trata de una ferretería proveedora para otras ferreterías y para el público común. La empresa FERREMAS nos encargó una página de ecommerce con ciertas funcionalidades específicas:
+Se trata de una ferretería proveedora para otras ferreterías y para el público común. La empresa FERRAMAS nos encargó una página de ecommerce con ciertas funcionalidades específicas:
 
 - Integración con Webpay
 - Integración con Banco Central
